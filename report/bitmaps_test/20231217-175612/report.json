@@ -4,7 +4,7 @@
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card.png",
-        "test": "..\\bitmaps_test\\20231215-210404\\Card_with_data-qa_card.png",
+        "test": "..\\bitmaps_test\\20231217-175612\\Card_with_data-qa_card.png",
         "selector": "[data-qa=\"card\"]",
         "fileName": "Card_with_data-qa_card.png",
         "label": "Card with data-qa_card",
@@ -20,8 +20,8 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.20955882352941177,
-          "misMatchPercentage": "0.21",
+          "rawMisMatchPercentage": 0.7242647058823529,
+          "misMatchPercentage": "0.72",
           "analysisTime": 16
         }
       },
@@ -30,7 +30,7 @@
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Link_with_data-qa_hover.png",
-        "test": "..\\bitmaps_test\\20231215-210404\\Link_with_data-qa_hover.png",
+        "test": "..\\bitmaps_test\\20231217-175612\\Link_with_data-qa_hover.png",
         "selector": "[data-qa=\"card\"]",
         "fileName": "Link_with_data-qa_hover.png",
         "label": "Link with data-qa_hover",
@@ -46,8 +46,8 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.18995098039215685,
-          "misMatchPercentage": "0.19",
+          "rawMisMatchPercentage": 0.7046568627450981,
+          "misMatchPercentage": "0.70",
           "analysisTime": 16
         }
       },
